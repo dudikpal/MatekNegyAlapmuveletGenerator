@@ -21,9 +21,9 @@ A későbbiekben ez is bővíthető, ahogy haladnak majd az anyaggal.
 A feladatok száma egyértelmű, azt adjuk itt meg, hogy a Generálás gomb mennyi feladatot állítson elő (max 100db).
 
 A "Mi legyen ismeretlen?" panelon a lehetőségek:
-  -Eredmény érték: csak a feladat végeredménye lesz ismeretlen.
-  -Bármely érték: az összes operandus, és a végeredmény közül egy véletlenszám generátor mondja meg, melyik elem lesz az ismeretlen.
-  -Bármely operátor: két operandusnál ez adott, hiszen csak egy operátor van, többnél kiválaszt egyet, ami ismeretlen lesz.
+  - Eredmény érték: csak a feladat végeredménye lesz ismeretlen.
+  - Bármely érték: az összes operandus, és a végeredmény közül egy véletlenszám generátor mondja meg, melyik elem lesz az ismeretlen.
+  - Bármely operátor: két operandusnál ez adott, hiszen csak egy operátor van, többnél kiválaszt egyet, ami ismeretlen lesz.
   
 Ha ezek beállításával készen vagyunk, a "Generálás" gombra kell kattintani, ami alatta kiírja, hogy mennyi feladat vár a kiírásra.
 
