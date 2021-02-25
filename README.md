@@ -36,4 +36,6 @@ Ha készen vagyunk, akkor a "PDF-be írás" gombon katt. Ha sikerült kiírnia, 
 Abban a könyvtárban, ahol a program található, lesz egy pdf fájl, azt kell kinyomtatni. Ebben az első részben vannak a megoldandó feladatok, 
 majd következik a megoldókulcs, az természetesen nekünk lesz.
 
+Minden "PDF-be írás"-ra kattintáskor felülíródik a pdf fájl!
+
 Kérdéssel, kéréssel, észrevétellel, hibajelzéssel kapcsolatban kérem jelezzetek a dudikpal@gmail.com címen.
